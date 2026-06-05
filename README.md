@@ -2,7 +2,7 @@ This Repository Contains the written report, python notebook, and python code fo
 density of males in the United States the are either unmarried, under the poverty line, or without a bachelors degree. 
 This project uses census ACS data, county shapefiles, and University of Wisconsin's Center for Health Disparities' Area Deprivation Index (ADI) scores.
 
-#Introduction
+# Introduction
 
 The preliminary county level analysis of the disadvantaged males metrics involved seeing the geographic distribution of the disadvantage as well as revealing relationships between disadvantage and other socio-economic features of the county. The analysis involves population, housing, racial and ethnic, economic, and political data.
 After explaining the sources of the data and the cleaning processes, this report will show the geographic distribution of the disadvantage. It will be clear that the disadvantage features tend to occur together. The next element of the analysis is the political and economic model that predicts the scale of increase in republican voters for counties according to their economic characteristics. This model uses the change in percentage of republican vote share between 2016 and 2020 as the dependent variable that represents a conservative political shift. The regressors in this model are economic features from the 2020 ACS 5-year.
